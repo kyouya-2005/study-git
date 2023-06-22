@@ -1,3 +1,2 @@
 i
-# Hello git !
-gitについて
+# Hello git ！
